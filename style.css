@@ -1,0 +1,16 @@
+
+p{
+    font-size: 1.2em;
+}
+
+.weather-heading{
+    font-family: Helvetica;
+}
+
+.weather-forecast{
+    background-color: #C7D5ED;
+}
+
+.forecast{
+    color: #270538;
+}
